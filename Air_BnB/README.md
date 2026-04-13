@@ -73,7 +73,6 @@ This project highlights how pricing and availability in AirBnB listings are infl
 
 ---
 
-
 ## ▶️ How to Run
 
 1. Clone the repository
