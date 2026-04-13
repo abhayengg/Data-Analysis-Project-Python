@@ -78,6 +78,7 @@ This project demonstrates how E-Commerce data can be analyzed to extract actiona
 
 ##📂 Project Structure
 
+'''
 Zomato/
 │
 ├── ecommerce_data_analysis.ipynb
