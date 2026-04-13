@@ -73,14 +73,15 @@ This project highlights how pricing and availability in AirBnB listings are infl
 
 ---
 
-##📂 Project Structure
+## 📂 Project Structure
 
-'''
+```
 Air_BnB/
 │
 ├── air bnb.ipynb
 └── README.md
-'''
+```
+
 ---
 
 ## ▶️ How to Run
